@@ -12,3 +12,4 @@ matplotlib
 seaborn
 scikit-image
 scikit-learn
+gunicorn
